@@ -1,0 +1,1 @@
+A library with a collection of various adapters for uploading images to popular image hosting services.
